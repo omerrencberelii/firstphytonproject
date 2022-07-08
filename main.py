@@ -9,7 +9,7 @@ with open("hello_world.txt", "w") as file:
         random_number = random.randrange(10000)
         print(random_number)
         file.write(str(random_number)+"\n")
-        time.sleep(0.5)
+        time.sleep(3)
         if random_number == 7777:
             file.write("Found!!!")
             break
