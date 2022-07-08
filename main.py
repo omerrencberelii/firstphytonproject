@@ -1,3 +1,7 @@
+"""
+Hi, My name is Omer
+
+"""
 import random
 import time
 with open("hello_world.txt", "w") as file:
