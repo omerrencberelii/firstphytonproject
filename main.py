@@ -1,5 +1,5 @@
 """
-Hi, My name is Omer
+Hi, My name is Omer Rençbereli
 
 """
 import random
